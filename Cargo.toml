@@ -1,0 +1,7 @@
+[package]
+name = "imagemagick"
+version = "0.1.0"
+authors = ["jonboydell <jonboydell@hotmail.com>"]
+
+[dependencies]
+regex = "0.1.8"
